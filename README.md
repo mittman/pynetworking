@@ -1,1 +1,3 @@
-# pyworm
+# python networking projects
+- worms
+- ftp
